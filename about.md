@@ -1,11 +1,8 @@
 ---
 layout: page
-title: من أنا
+title: About me
 permalink: /about/
 ---
 
-Interested in cybersecurity
+I'll tell you later!
 
-### Twitter
-
-[https://twitter.com/0x3bdullah]()
