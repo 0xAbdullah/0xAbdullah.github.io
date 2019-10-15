@@ -30,6 +30,7 @@ title: Pivoting attack
 
 بعد ذلك يقوم المهاجم بضبط اعدادات اداة ProxyChains التي ستساعدة على تمرير الاتصال للبروكسي
 > nano /etc/proxychains.conf
+
 ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/PiovtingAttck/6-%20ProxyCh.png)
 
 في الخطوه التاليه التي سيقوم بها المهاجم هي فحص الشبكة ومعرفة الأجهزة المتصله.
