@@ -46,5 +46,5 @@ title: Pivoting attack
  لا يوجد اتصال! فقط يحتاج المهاجم ضبط اعدادات البروكسي للمتصفح.
  ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/PiovtingAttck/9-%20proxy%20seting.PNG)
  سيقوم المهاجم بضبط الاعدادات للمتصفح شبة المدخلة في socks4a auxiliary.
- اخيراً استطاع المهاجم للوصول لشبكة الداخليه وخدماتها, وبنفس التكنيك يمكنه اختراق باقي الاجهزه والتنقل في الشبكة بعمق!
  ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/PiovtingAttck/10-%20finle%20result.PNG)
+ اخيراً استطاع المهاجم للوصول لشبكة الداخليه وخدماتها, وبنفس التكنيك يمكنه اختراق باقي الاجهزه والتنقل في الشبكة بعمق!
