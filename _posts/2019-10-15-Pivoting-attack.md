@@ -15,9 +15,9 @@ title: Pivoting attack
 
 ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/PiovtingAttck/1-%20ARP.PNG)
 
-نلاحظ ان الخادم متواجد في Subnet 192.168.100.0/24 وأيضا متصل في Subnet اخر (192.168.209.0/24)
+نلاحظ ان الخادم متواجد في Subnet 192.168.8.0/24 وأيضا متصل في Subnet اخر (192.168.209.0/24)
 
-لتوضيح: سأحاول ان اتصل في IP:192.16.209.128 الإجابة قبل الصورة: لن نتمكن بطبيعة الحال 
+لتوضيح: سأحاول ان اتصل في IP:192.168.209.128 الإجابة قبل الصورة: لن نتمكن بطبيعة الحال 
 
 ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/PiovtingAttck/3-%20ping%20other%20subnet.PNG)
 هل هذا يعني لا يمكن الوصول له؟ بالتأكيد يمكن الوصول له ولكن في الوقت الحالي لا يوجد شيء يقوم بعملية التوجيه (Router) لتتمكن من الاتصال به بشكل مباشر!
