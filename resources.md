@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PT/RT مصادر تخص
+title: مصادر تخص PT/RT
 permalink: /resources/
 ---
 
