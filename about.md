@@ -4,4 +4,4 @@ title: About me
 permalink: /about/
 ---
 
-PenTester & Python coder.
+`PenTester & Python coder.`
