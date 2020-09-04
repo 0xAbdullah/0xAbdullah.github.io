@@ -42,7 +42,7 @@ if (isset($_POST['submit'])) {
   في هذه الحالة سيقوم التطبيق باخذ المدخلات من المستخدم وتنفيذها ومن ثم عرض المخرجات
   مثال:
   
-  ![](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2018/September/vtGGJHD7O1JpvhkPajHN2lLJaA4332cBpClXlhFB.gif)
+  ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/CommandiNj/1.gif)
   
   ولكن المبرمج لم يقوم بتصفية المدخلات ووثق بالمستخدم ثقة كبيرة وهنا سياتي استغلال المهاجم لهذا الضعف من خلال حقن امر بجانب الامر الذي وضعة المبرمج.
   ```
@@ -50,7 +50,7 @@ if (isset($_POST['submit'])) {
   ```
   مثال:
   
-  ![](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2018/September/jFbCDrwigm9nyqUbRaaWsHLPOhTlK2OpeSTsceG9.gif)
+  ![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/CommandiNj/2.gif)
   
   كما نلاحظ تم استغلال الثغرة من خلال حقن امر بجانب المدخلات المطلوبة من المستخدم الامر لا يتوقف عند عرض المسار الحالي او معرفة مكونات المجلد الحالي فقط, بل يمكن المهاجم قراءه ملفات حساسة على الخادم أو استدعاء ملفات خارجية ووضعها على الخادم وبالطبع هذا الامر يعتمد على (الصلاحيات).
 ترقيع الثغرة:
@@ -90,6 +90,6 @@ if (isset($_POST['submit'])) {
 
 مثال بعد ترقيع الثغرة:
 
-![](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2018/September/KA7LrXFtPP4OJrxSJ9PEs75zSXc9c3QWCmeBgQFO.gif)
+![](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/CommandiNj/3.gif)
 
 كما نلاحظ لم يتمكن المهاجم من تنفيذ الاوامر المحقونه.
