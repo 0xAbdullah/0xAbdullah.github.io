@@ -61,7 +61,7 @@ title: HackerEnv Pressed (10.0.102.2)
 ![PrivEsc](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/HackerEnv/Pressed/9-%20PrivEsc.png) 
  
  
-ونقوم بفتح ويب سيرفس لتحميل الملف من الجهاز على الخادم واستبداله.
+ونقوم بفتح python server لتحميل الملف من الجهاز على الخادم واستبداله.
  
 ![PrivEsc](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/HackerEnv/Pressed/10-%20PrivEsc.png) 
  
