@@ -12,7 +12,7 @@ title: HackerEnv Pressed (10.0.102.2)
  
 ![Nmap scan](https://raw.githubusercontent.com/0xAbdullah/0xAbdullah.github.io/master/MyFiles/HackerEnv/Pressed/1-%20nmap.png) 
  
-نلاحظ ان الموقع يعمل على Wordpress الاصدار الخامس, بعد البحث عن ثغرات لهذا الاصدار وجدت هناك تسمح لك برفع Web shell " WordPress Crop-image Shell Upload " ولكن تطلب منك اسم مستخدم وكلمة مرور.
+نلاحظ ان الموقع يعمل على Wordpress الاصدار الخامس, بعد البحث عن ثغرات لهذا الاصدار وجدت هناك ثغره تسمح لك برفع Web shell " WordPress Crop-image Shell Upload " ولكن تطلب منك اسم مستخدم وكلمة مرور.
 لذلك راح نستخدم اداة WPScan لمعرفة المستخدمين الموجودين اولاً.
 
 `wpscan --url http://10.0.102.2/ --enumerate u`
